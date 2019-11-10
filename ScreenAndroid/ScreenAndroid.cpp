@@ -11,8 +11,8 @@
 SoftwareSerial SSerialAndroid(8,9); 
 ScreenAndroid::ScreenAndroid()
 {
-  SSerialAndroid.begin(115200);
-   //SSerialAndroid.begin(9600);
+  //SSerialAndroid.begin(115200);
+   SSerialAndroid.begin(9600);
 }
  
 void ScreenAndroid::DrawCircle(int cx,int cy,int r,int thick,String col,int fill)
