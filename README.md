@@ -11,6 +11,8 @@ Los datos se envian vía serial a través de los módulos hc-05/06. Podrás dibu
 Todo lo necesario para conectar la aplicación a arduino se encuentra en el manual de este repo, incluyendo la instalacion de la libreria.
 la aplicacion para android puede encontrarse en:
 https://play.google.com/store/apps/details?id=com.p.screenarduino
+en el siguiente video se puede apreciar su funcionamiento:
+https://www.youtube.com/watch?v=iisodzIFLes&feature=youtu.be
 
 
 Ventajas:
