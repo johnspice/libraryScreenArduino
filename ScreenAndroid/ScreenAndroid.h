@@ -1,6 +1,6 @@
 /*
-  ScreenAndroid.h - Library for flashing Morse code.
-  Created by David A. Mellis, November 2, 2007.
+  ScreenAndroid.h - Library for Arduino. 
+  Created by JonhGab.
   Released into the public domain.
 */
 #ifndef ScreenAndroid_h
