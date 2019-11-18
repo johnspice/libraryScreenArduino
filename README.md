@@ -8,8 +8,9 @@ Existes muchas pantallas para Arduino desde las mas simples de dos segmentos has
 Esta libreria usar la pantalla de tu mobil como pantalla Arduino con la cual podrás dibujar elementos simples como rectángulos, lineas, círculos, texto incluso Botones que reacciona al Touch. 
 Los datos se envian vía serial a través de los módulos hc-05/06. Podrás dibujar sin problemas elementos que no requiera refresh menores a 1000ms, aunque también es posible dibujar con refresh de hasta 100ms aumentando la velocidad en baudios en los hc05/06, y en la libreria. 
 
-Todo lo necesario para conectar la aplicación a arduino se encuentra en el manual de este repo, inclyendo la instalacion de la lbreria.
+Todo lo necesario para conectar la aplicación a arduino se encuentra en el manual de este repo, incluyendo la instalacion de la libreria.
 la aplicacion para android puede encontrarse en:
+https://play.google.com/store/apps/details?id=com.p.screenarduino
 
 
 Ventajas:
