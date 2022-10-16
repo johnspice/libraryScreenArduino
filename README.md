@@ -1,4 +1,4 @@
-# ScreenArduino
+# ScreenArduino App
 Es una libreria para arduino que permite usar la pantalla de un Dispositivo android como pantalla para arduino usando bluetooth.
 ![GitHub Logo](/EjemplosArduino/promocional.png)
 ![GitHub Logo](/EjemplosArduino/ejemplo1.png)
