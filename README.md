@@ -24,3 +24,15 @@ Ventajas:
 Desventajas:
 - los refresh de pantalla deben ser mayores a  1000ms o aumentar los baudios en la libreria, en el manual se explica.
 - entre mas elementos se dibujes el refresh debe ser mayor, lo cual provocara un lag en el click sobre los botones.
+
+PRIVACIDAD 
+
+La presente Política de Privacidad establece que ScreenArduino no usa, recoge o envia información de los usuarios fuera de la aplicación, al momento de utilizar la App.
+
+Información que es recogida 
+
+Nuestra App utiliza solo datos recibidos vía Bluetooth enviados por el mismo usuario, estos datos se guardan en un formato .xls que pueden ser consultados por el mismo usuario. 
+
+Uso de la información recogida
+
+Los dato recogidos son usados para ser dibujados en pantalla en tiempo real. 
